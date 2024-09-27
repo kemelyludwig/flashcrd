@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Química',
     'Atualmente, quantos elementos químicos a tabela periódica possui?',
-    'Infinitas.'
+    '118 elementos químicos.'
 )
 
 criaCartao(
@@ -27,3 +27,33 @@ criaCartao(
     'Quantas casas decimais tem o número pi?',
     'Infinitas.'
 )
+criaCartao(
+    'Geografia',
+    'Onde se localiza Machu Picchu?',
+    ' Peru.'
+)
+
+criaCartao(
+    'Astrologia',
+    'Quais são as fases da Lua?',
+    'Nova, crescente, cheia e minguante.'
+)
+
+criaCartao(
+    'Biologia',
+    'Quantos ossos temos no nosso corpo?',
+    '206.'
+)
+
+criaCartao(
+    'Artes',
+    'Quem pintou Mona Lisa?',
+    ' Leonardo da Vinci.'
+)
+
+criaCartao(
+    'Inglês',
+    'Como se diz: "Como você está?" em inglês?',
+    '"How are you?"'
+)
+
